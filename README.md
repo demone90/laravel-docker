@@ -1,10 +1,10 @@
 # laravel-docker
 Run a dockerized laravel app using docker-compose, nginx and mysql
 
-RUN:
+From the project's root folder run:
 docker-compose up -d
 
-VISIT: 
+Visit on your browser: 
 localhost:80
 
-START CODING YOUR DOCKERIZED LARAVEL APP
+This project is seen as a starting point to develop dockerized app with laravel. It will not contain any application related code but only a skeleton to start from.
