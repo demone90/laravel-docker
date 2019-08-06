@@ -2,7 +2,6 @@
 Run a dockerized laravel app using docker-compose, nginx and mysql
 
 RUN:
-
 docker-compose up -d
 
 VISIT: 
